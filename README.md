@@ -60,9 +60,9 @@ It explores browser requests, HTTP headers, cookies, CSRF protection, session ha
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/Imran404cyber/fb_login_api
+git clone https://github.com/Imran404cyber/Facebook_ssl_unpinning
 
-cd fb_login_api
+cd Facebook_ssl_unpinning
 
 pip install -r requirements.txt
 ```
