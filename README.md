@@ -17,7 +17,7 @@
 
 ---
 
-# Facebook Version (566.0.0.48.73)
+# Demo Picture 
 
 ![preview](https://github.com/Imran404cyber/fb_login_api/blob/main/Screenshot%202026-06-28%20192256.png)
 
